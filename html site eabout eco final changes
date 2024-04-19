@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Understanding Global Warming</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 800px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Быстро и лекго про Глобальное потепление</h1>
+    </header>
+    <section>
+        <h2>Что такое Глобальное потепление?</h2>
+        <p>Глобальное потепление — это долгосрочное нагревание климатической системы Земли из-за деятельности человека, в первую очередь выбросов парниковых газов, таких как углекислый газ и метан..</p>
+        
+        <h2>Причины Глобального потепление</h2>
+        <ul>
+            <li>Огромное количество выброса углекислого газа</li>
+            <li>Вырубка леса</li>
+            
+        </ul>
+
+        <h2>Последствие Глобального потепление</h2>
+        <ul>
+            <li>Повышение температуры</li>
+            <li>Экстремальные погодные явления</li>
+            <li>Тающие ледникие</li>
+            <li>Повешение уровня море</li>
+        </ul>
+
+        <h2>Решение</h2>
+        <p>Чтобы смягчить глобальное потепление, люди могут:</p>
+        <ul>
+            <li>Используйте возобновляемые источники энергии</li>
+            <li>Снижение энергопотребления</li>
+            <li>Больше заботится о природе</li>
+        </ul>
+        <p></p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Понятие о Глобальном потеплений</p>
+    </footer>
+</body>
+</html>
